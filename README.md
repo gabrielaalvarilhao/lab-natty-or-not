@@ -33,4 +33,6 @@ Seguindo essas dicas, você estará muito mais seguro ao gerenciar suas finança
 
 ## 🚀 Resultados
 Apesar de ter alguns dissincronismos na fala e na imagem, de um modo geral, achei que o vídeo ficou bem natural.
+LINK do Vídeo: https://app.heygen.com/videos/7898fce2a37d49239a6847208385afd0
+
 
