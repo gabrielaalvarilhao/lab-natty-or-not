@@ -19,9 +19,9 @@ Escolhi um AVATAR oferecido gratuitamente pelo APP HeyGen, e mesclei duas cenas 
 Roteiro Gerado pelo ChatGPT:
 "Aqui estão cinco dicas super importantes para você proteger seus dados bancários na internet:
 
-1. Use Senhas Fortes e Únicas: Evite senhas simples como "123456". Crie senhas que combinem letras, números e símbolos, e não reutilize a mesma senha em diferentes sites. Um gerenciador de senhas pode ser uma ótima ajuda!
+1. Use Senhas Fortes e Únicas: Evite senhas simples como "1 2 3 4 5 6". Crie senhas que combinem letras, números e símbolos, e não reutilize a mesma senha em diferentes sites. Um gerenciador de senhas pode ser uma ótima ajuda!
 
-2. Ative a Autenticação em Dois Fatores (2FA): Essa é uma camada extra de segurança que requer uma confirmação além da sua senha, como um código enviado por SMS. Assim, mesmo que alguém descubra sua senha, ainda precisará do segundo fator para acessar sua conta.
+2. Ative a Autenticação em Dois Fatores: Essa é uma camada extra de segurança que requer uma confirmação além da sua senha, como um código enviado por SMS. Assim, mesmo que alguém descubra sua senha, ainda precisará do segundo fator para acessar sua conta.
 
 3. Cuidado com Wi-Fi Público: Redes Wi-Fi em cafés ou shoppings podem ser arriscadas. Evite acessar suas contas bancárias ou fazer transações financeiras nessas redes. Se precisar, considere usar uma VPN para proteger sua conexão.
 
